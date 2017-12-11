@@ -357,6 +357,9 @@ Now I can open a file with `$ subl myfile.py` or start a new project in the curr
  - atom install react
  - atom install vim-mode
 
+  SETUP Atom Sync
+    ln -s ~/Dropbox/Apps/Atom/.atom ~/.atom
+
 ## Vim
 
 Although Sublime Text will be our main editor, it is a good idea to learn some very basic usage of [Vim](http://www.vim.org/). It is a very popular text editor inside the terminal, and is usually pre-installed on any Unix system.

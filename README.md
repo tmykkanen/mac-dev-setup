@@ -359,6 +359,7 @@ Now I can open a file with `$ subl myfile.py` or start a new project in the curr
 
   SETUP Atom Sync
     ln -s ~/Dropbox/Apps/Atom/.atom ~/.atom
+    See also [https://adamhollett.com/posts/2015/11/sync-atom-between-osx-and-windows/]
 
 ## Vim
 
